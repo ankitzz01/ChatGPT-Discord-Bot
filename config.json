@@ -1,0 +1,10 @@
+{
+	"token": "bottoken",
+	"developerGuild": "developerserverid",
+    "developer": "yourid",
+	"invite": "invitelink",
+	"support": "supportserver",
+	"openai": {
+		"key": "yourkey"
+	}
+}

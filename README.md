@@ -28,7 +28,7 @@ Installation
 Usage
 Once the bot is up and running, you can use it in any Discord text channel by using the command `/chat`.
 
-For example, to ask the bot a question, you can type /chat prompt: Can you tell a joke?.
+For example, to ask the bot a question, you can type `/chat prompt: Can you tell a joke?`.
 
 Contributing
 > If you're interested in contributing to the project, please fork the repository and make the necessary changes. Then, submit a pull request for review.

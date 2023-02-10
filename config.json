@@ -1,7 +1,7 @@
 {
 	"token": "bottoken",
 	"developerGuild": "developerserverid",
-    "developer": "yourid",
+    	"developer": "yourid",
 	"invite": "invitelink",
 	"support": "supportserver",
 	"openai": {

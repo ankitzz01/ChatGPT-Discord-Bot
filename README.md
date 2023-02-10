@@ -14,6 +14,7 @@ These instructions will help you get the bot up and running on your own Discord 
 
 Prerequisites
 > A Discord account
+> A Discord Bot (if not created create one from here - https://discord.com/developers/applications)
 > A Discord server to add the bot to
 > An OpenAI API key with access to the GPT-3 model
 
